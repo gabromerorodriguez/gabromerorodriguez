@@ -1,4 +1,4 @@
-<h1>Hi, I'm Gabriela, an <a href="https://linkedin.com/in/gabriela-romero-752300244/">IT Professional</a></h1>
+<h1>Hi, I'm Gabriela, an <a href="https://linkedin.com/in/gabriela-romero-752300244/">IT Professional!</a></h1>
 
 <h2>💻 Information Technology Projects:</h2>
 
